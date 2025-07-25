@@ -1,4 +1,3 @@
-id,timestamp,content
 547824165185536000|Wed Dec 24 18:40:33 +0000 2014|Would You Like Health Insurance With Those Stocking Stuffers? http://n.pr/1CKulog
 547763897638199296|Wed Dec 24 14:41:04 +0000 2014|New Blood Donation Rules Would Still Exclude Many Gay Men http://n.pr/1CJ9IsG
 547671560471859200|Wed Dec 24 08:34:09 +0000 2014|Obama Administration Downplays Court Challenge To Health Law http://n.pr/1CHaDd6
